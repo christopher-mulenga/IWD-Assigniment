@@ -56,7 +56,7 @@ I used commands such as `git init`, `git add`, `git commit`, `git status`, and `
 
 2. Commits and commit messages:
 
-I made 2 commits, using short and descriptive messages such as "Initial website" and "Update website content".
+I made 2 commits, using short and descriptive messages such as "Add Week 2 and Week 3 lab exercises" and "Update website content".
 
 3. Importance of version control:
 
