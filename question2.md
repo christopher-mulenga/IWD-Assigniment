@@ -5,9 +5,7 @@ SIN: 2510521860
 Mode: Distance
 
 Semester 2
-.
-.
-.
+
 
  Question 2: HTML Elements
 
